@@ -69,7 +69,7 @@ Photographer: <Photographer_name>
 
 <br><br>
 <div align="center">
-<img src="./assets/Goji_Art.PNG" width="60%"  alt="Goji_Art" title="Qilin Goji Art Concpet, Artist: @与纸Yuzhi"/>
+<img src="./assets/Goji_Art.jpg" width="60%"  alt="Goji_Art" title="Qilin Goji Art Concpet, Artist: @与纸Yuzhi"/>
 </div>
 
 <div align="center">
