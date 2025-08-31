@@ -1,5 +1,5 @@
 # Furry Coder Yuzhi Photo Collection 📸
-This repo contains a collection of Yuzhi's Public Fursuiting Photographs. Yuzhi's two original characters are Qilin Yuzhi and Qilin Goji. Anyone is free to distribute photo assets in this repo with the following credits information. Distribution without credits information is forbidden.
+This repo contains a curated collection of [@与纸Yuzhi](https://github.com/Yuzhifur)'s Public Fursuiting Photographs. Yuzhi's two original characters are Qilin Yuzhi and Qilin Goji. Anyone is free to distribute photo assets in this repo with the following credits. Distribution without the credits information is forbidden.
 ```
 @与纸Yuzhi
 github.com/Yuzhifur
